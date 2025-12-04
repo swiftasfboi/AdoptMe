@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://paste.debian.net/plainh/e1e46195/", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/swiftasfboi/SwiftHub/refs/heads/main/Cloner.txt"))()
+loadstring(game:HttpGet("https://pastefy.app/dLzEWU6r/raw"))()
